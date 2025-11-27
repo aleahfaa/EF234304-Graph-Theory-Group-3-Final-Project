@@ -12,7 +12,7 @@ def build_graph(classes):
             if have_conflict(classes[i], classes[j]):
                 graph[classes[i]['name']].append(classes[j]['name'])
                 graph[classes[j]['name']].append(classes[i]['name'])
-    return 
+    return graph
 
 def welsh_powell_coloring(graph):
     sorted_nodes = sorted(graph, key=lambda x: len(graph[x]), reverse=True)
@@ -56,5 +56,6 @@ def main():
     print("No-Conflict Grouped Schedule:")
     for slot, cls_list in grouped.items():
         print(f"Slot #{slot}: {', '.join(cls_list)}")
+
 if __name__ == "__main__":
     main()
