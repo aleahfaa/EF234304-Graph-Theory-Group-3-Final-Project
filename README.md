@@ -59,7 +59,7 @@ The result is a conflict-free schedule where classes sharing the same color can 
 Overall, this application simplifies complex scheduling problems into a structured coloring task. It provides a systematic and efficient way to organize multiple classes, lecturers, and times without any conflicts.
 
 ## Flowchart
-1. Input Data
+1. Input Data <br>
     Enter N as many as the number of subjects
 2. Repeat until N
     - Request as many as N for name, day, start time, and end time
@@ -69,17 +69,17 @@ Overall, this application simplifies complex scheduling problems into a structur
     - Have Conflict? -> who is in conflict with whom:
         - If Yes → check is there overlapping time? → If yes, then these two classes cannot be concurrent, if not, then these classes can be concurrent.
         - If No → These 2 classes have no conflict and can be held simultaneously.
-4. Show Each Node and its Neighbors
+4. Show Each Node and its Neighbors <br>
     Displays the results of the conflict graph that has been created. The program displays each class (node) along with a list of other classes that conflict with it (its neighbors).
 5. Welsh-Powell Coloring
     - Grouping classes based on time conflicts.
     - With this algorithm, each class is assigned a color (time slot). Conflicting classes cannot be at the same time, while safe classes can be at the same time.
-6. Group by Color
+6. Group by Color <br>
     After each class is assigned a color that indicates a time slot, the program then groups classes that have the same color.
-7. Output
+7. Output <br>
     Print scheduling results in the form of:
-        - Color or time slot for each class
-        - Group classes based on the same time slot.
+      - Color or time slot for each class
+      - Group classes based on the same time slot.
 
 ## Input - Output
 ### Input
