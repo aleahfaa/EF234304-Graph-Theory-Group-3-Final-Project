@@ -1,0 +1,59 @@
+Function HaveConflict(classA, classB):
+    If classA.day != classB.day:
+        Return False
+    If classA.end <= classB.start OR classB.end <= classA.start:
+        Return False
+    Else:
+        Return True
+End Function
+Function BuildGraph(classes):
+    Create graph ← dictionary with each class name and key and empty list as value
+    For i from 0 to length(classes)-1:
+        For j from i+1 to length(classes)-1:
+            If HaveConflict(classes[i], classes[j]) then
+                Add classes[j].name to graph[classes[i].name]
+                Add classes[i].name to graph[classes[j].name]
+    Return graph
+End Function
+Function WelshPowellColoring(graph)
+    sorted_nodes ← nodes sorted by descending degree
+    colors ← empty dictionary
+    color_num ← 0
+    For each node in sorted_nodes:
+        If node not in colors:
+            color_num ← color_num + 1
+            colors[node] ← color_num
+            For each other in sorted_nodes:
+                If other not in colors AND all adjacent nodes of ‘other’ have color != color_num:
+                    colors[other] ← color_num
+    Return colors
+End Function
+Function GroupByColor(colors):
+    grouped ← empty dictionary
+    For each (class, color) in colors:
+        If color not in grouped:
+            grouped[color] ← empty list
+        Append class to grouped[color]
+    Return grouped
+End Function
+Function Main()
+    Input n ← number of classes
+    Initialize classes ← empty list
+    For i from 1 to n do
+        Display “Class i:”
+        Input class_name
+        Input day
+        Input start_time
+        Input end_time
+        Append {’name’: class_name, ‘day’: day, ‘start’: start_time, ‘end’: end_time} to classes
+    End For
+    graph ← BuildGraph(classes)
+    For each node in graph:
+        Display node and its adjacent nodes
+    colors ← WelshPowellColoring(graph)
+    grouped ← GroupByColor(colors)
+    For each class in colors:
+        Display class and its color (time slot)
+    For each slot in grouped:
+        Display slot numbers and the list of classes in it
+End Function
