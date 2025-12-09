@@ -1,0 +1,202 @@
+﻿day,time,course_name,semester
+Senin,07:00 - 08:50,Kalkulus 2 - IUP,2
+Senin,07:00 - 08:50,Keamanan Jaringan - T (EN),6
+Senin,07:00 - 08:50,Komputasi Numerik - A,2
+Senin,07:00 - 08:50,Manajemen Basis Data - E,4
+Senin,07:00 - 08:50,Otomata - A,4
+Senin,07:00 - 08:50,Pemrogaman Bahasa Natural - RKA (N),4
+Senin,09:00 - 10:50,TD Komputasi Biomedik-A,1
+Senin,10:00 - 11:50,Manajemen Basis Data - A,4
+Senin,10:00 - 11:50,Otomata - B,4
+Senin,10:00 - 11:50,Otomata - C,4
+Senin,10:00 - 11:50,Pembelajaran Mesin - B,4
+Senin,10:00 - 11:50,Pemrograman Berorientasi Objek - RPL (M),2
+Senin,10:00 - 11:50,Pemrograman Jaringan - A,4
+Senin,10:00 - 11:50,Probabilitas dan Statistik - A,4
+Senin,10:00 - 11:50,Sistem Operasi - A,2
+Senin,10:00 - 11:50,Struktur Data - A,2
+Senin,10:00 - 11:50,Struktur Data - IUP,2
+Senin,10:00 - 11:50,Topik Dalam Audit Sistem - A,1
+Senin,11:00 - 12:50,Kewirausahaan Berbasis Teknologi - IUP,7
+Senin,13:30 - 15:20,Manajemen Basis Data - B,4
+Senin,13:30 - 15:20,Manajemen Basis Data - C (EN),4
+Senin,13:30 - 15:20,Otomata - D,4
+Senin,13:30 - 15:20,Pembelajaran Mesin - IUP (I),4
+Senin,13:30 - 15:20,Pemrograman Berbasis Kerangka Kerja - RPL (M),4
+Senin,13:30 - 15:20,Pemrograman Jaringan - B,4
+Senin,13:30 - 15:20,Pemrograman Perangkat Bergerak - A,6
+Senin,13:30 - 15:20,Pengantar Teknologi Elektro dan Informatika Cerdas - RPL (M),2
+Senin,13:30 - 15:20,Probabilitas dan Statistik - B,4
+Senin,13:30 - 15:20,Sistem Operasi - B,2
+Senin,13:30 - 15:20,TD Audit Sistem-A,1
+Senin,13:30 - 15:20,Teori Graf - RKA (N),2
+Senin,13:30 - 15:20,Topik Dalam Sistem Terdistribusi - A,1
+Senin,15:30 - 17:20,Organisasi Komputer - A,2
+Senin,15:30 - 17:20,Perancangan Perangkat Lunak - IUP,4
+Senin,15:30 - 17:20,Struktur Data - B,2
+Senin,16:30 - 18:20,Topik Dalam Analisis Data Multivariat - P,1
+Senin,18:30 - 20:20,Topik Dalam Grafika Komputer - P,1
+Senin,18:30 - 20:20,Topik Dalam Rekayasa Kebutuhan - P,1
+Senin,18:30 - 20:20,Topik Dalam Visi Komputer - P,1
+Selasa,07:00 - 08:50,Keamanan Aplikasi - T (EN),6
+Selasa,07:00 - 08:50,Kebudayaan dan Kebangsaan,4
+Selasa,07:00 - 08:50,Komputasi Numerik - B,2
+Selasa,07:00 - 08:50,Komputasi Numerik - IUP,2
+Selasa,07:00 - 08:50,Konsep Kecerdasan Artifisial - RKA (N),2
+Selasa,07:00 - 08:50,Otomata - H,4
+Selasa,07:00 - 08:50,Pembelajaran Mesin - C,4
+Selasa,07:00 - 08:50,Pemrograman Perangkat Bergerak - B,6
+Selasa,07:00 - 08:50,Perancangan dan Analisis Algoritma - A,4
+Selasa,07:00 - 08:50,Perancangan Perangkat Lunak - A,4
+Selasa,07:00 - 08:50,TD Text Mining-A,1
+Selasa,10:00 - 11:50,Analisis dan Perancangan Sistem Informasi - RPL (M),4
+Selasa,10:00 - 11:50,Animasi Komputer dan Pemodelan 3D - T,6
+Selasa,10:00 - 11:50,Manajemen Basis Data - D,4
+Selasa,10:00 - 11:50,Manajemen Basis Data - IUP,4
+Selasa,10:00 - 11:50,Metodologi Penelitian - A,2
+Selasa,10:00 - 11:50,Otomata - F,4
+Selasa,10:00 - 11:50,Pembelajaran Mesin - A,4
+Selasa,10:00 - 11:50,Pemrograman Jaringan - C,4
+Selasa,10:00 - 11:50,Pemrograman Perangkat Bergerak - IUP,6
+Selasa,10:00 - 11:50,Perancangan dan Analisis Algoritma - B,4
+Selasa,10:00 - 11:50,Perancangan dan Analisis Algoritma - C,4
+Selasa,10:00 - 11:50,Perancangan Perangkat Lunak - B,4
+Selasa,10:00 - 11:50,Struktur Data - RPL (M),2
+Selasa,10:00 - 11:50,TD Pengolahan Citra-K,1
+Selasa,10:00 - 11:50,Topik Dalam Komputasi Biomedik - A,1
+Selasa,11:00 - 11:50,Kalkulus 2,2
+Selasa,11:00 - 11:50,Kebudayaan dan Kebangsaan,4
+Selasa,12:00 - 12:50,Penulisan Ilmiah-A,2
+Selasa,13:30 - 15:20,Audit Sistem - T,6
+Selasa,13:30 - 15:20,Data Privacy and Security (Kelas dari Prodi Statistik),4
+Selasa,13:30 - 15:20,Interaksi Manusia dan Komputer - RPL (M),4
+Selasa,13:30 - 15:20,Kewirausahaan Berbasis Teknologi,7
+Selasa,13:30 - 15:20,Konsep Pengembangan dan Perancangan PL - RKA (N),4
+Selasa,13:30 - 15:20,Kualitas Perangkat Lunak - T,6
+Selasa,13:30 - 15:20,Manajemen Basis Data - F,4
+Selasa,13:30 - 15:20,Organisasi Komputer - B,2
+Selasa,13:30 - 15:20,Pembelajaran Mesin - D,4
+Selasa,13:30 - 15:20,Pembelajaran Mesin - E,4
+Selasa,13:30 - 15:20,Pengantar Teknologi Elektro dan Informatika Cerdas - A,2
+Selasa,13:30 - 15:20,Perancangan Perangkat Lunak - C,4
+Selasa,13:30 - 15:20,Sistem Operasi - IUP,2
+Selasa,13:30 - 15:20,Topik Dalam PG, RV, dan RA - A (EN),1
+Selasa,13:30 - 15:20,Topik Dalam Visi Komputer - B,1
+Selasa,16:30 - 17:20,Topik Dalam Jaringan Nirkabel - P,1
+Selasa,16:30 - 17:20,Topik Dalam PG, RV, dan RA - P,1
+Selasa,16:30 - 18:20,Kewirausahaan Berbasis Teknologi,7
+Selasa,16:30 - 18:20,Organisasi Komputer - C,2
+Selasa,16:30 - 18:20,Otomata - E,4
+Selasa,16:30 - 18:20,Pemrograman Jaringan - IUP,4
+Selasa,16:30 - 18:20,Pemrograman Perangkat Bergerak - C,6
+Selasa,18:30 - 20:20,Kecerdasan Komputasional - P,1
+Selasa,18:30 - 20:20,Rekayasa Perangkat Lunak untuk Pendidikan - P,1
+Rabu,07:00 - 08:50,Desain Pengalaman Pengguna - T (EN),6
+Rabu,07:00 - 08:50,Filsafat Ilmu-A,1
+Rabu,07:00 - 08:50,Interaksi Manusia dan Komputer - A,6
+Rabu,07:00 - 08:50,Kalkulus 2 - IUP,2
+Rabu,07:00 - 08:50,Komputasi Numerik - C,2
+Rabu,07:00 - 08:50,Otomata - G,4
+Rabu,07:00 - 08:50,Pembelajaran Mesin - F,4
+Rabu,07:00 - 08:50,Pemrograman Jaringan - D,4
+Rabu,07:00 - 08:50,Pemrograman Web - RKA (N),4
+Rabu,07:00 - 08:50,Perancangan dan Analisis Algoritma - D (EN),4
+Rabu,07:00 - 08:50,Perancangan Perangkat Lunak - D,4
+Rabu,07:00 - 08:50,Probabilitas dan Statistik - E,4
+Rabu,07:00 - 08:50,Sistem Operasi - C,2
+Rabu,07:00 - 08:50,Struktur Data - RKA (N),2
+Rabu,07:00 - 08:50,Topik Dalam Grafika Komputer - A,1
+Rabu,07:00 - 08:50,Topik Khusus Algoritma dan Pemrograman - T,6
+Rabu,10:00 - 11:50,Interaksi Manusia dan Komputer - B,6
+Rabu,10:00 - 11:50,Komputasi Numerik - RPL (M),2
+Rabu,10:00 - 11:50,Metode Penelitian - A,2
+Rabu,10:00 - 11:50,Organisasi Komputer - D,2
+Rabu,10:00 - 11:50,Organisasi Komputer - IUP,2
+Rabu,10:00 - 11:50,Otomata - RPL (M),4
+Rabu,10:00 - 11:50,Pembelajaran Mesin - G,4
+Rabu,10:00 - 11:50,Pengantar Teknologi Elektro dan Informatika Cerdas - B,2
+Rabu,10:00 - 11:50,Pengolahan Citra Digital - RKA (N),4
+Rabu,10:00 - 11:50,Perancangan dan Analisis Algoritma - E,4
+Rabu,10:00 - 11:50,Perancangan Perangkat Lunak - E,4
+Rabu,10:00 - 11:50,Probabilitas dan Statistik - C,4
+Rabu,10:00 - 11:50,Sistem Operasi - D,2
+Rabu,10:00 - 11:50,Topik Dalam Big Data - A,1
+Rabu,10:00 - 11:50,Topik Dalam Manajemmen Proyek Perangkat Lunak - A,1
+Rabu,11:00 - 11:50,Kebudayaan dan Kebangsaan - IUP,4
+Rabu,13:30 - 15:20,Dasar Pemrograman - T,1
+Rabu,13:30 - 15:20,Deep Learning - T,6
+Rabu,13:30 - 15:20,Jaringan Komputer - RKA (N),4
+Rabu,13:30 - 15:20,Manajemen Basis Data - G,4
+Rabu,13:30 - 15:20,Pembelajaran Mesin - H,4
+Rabu,13:30 - 15:20,Pemrograman Perangkat Bergerak - D,6
+Rabu,13:30 - 15:20,Pengantar Teknologi Elektro dan Informatika Cerdas - C,2
+Rabu,13:30 - 15:20,Perancangan dan Analisis Algoritma - F,4
+Rabu,13:30 - 15:20,Perancangan Perangkat Lunak - F,4
+Rabu,13:30 - 15:20,Probabilitas dan Statistik - D,4
+Rabu,13:30 - 15:20,Probabilitas dan Statistik - IUP,4
+Rabu,13:30 - 15:20,Struktur Data - C,2
+Rabu,13:30 - 15:20,TD Data Mining-K,1
+Rabu,13:30 - 15:20,Topik Dalam Pengaman Jaringan - A,1
+Rabu,13:30 - 15:20,Topik Dalam Penjaminan Kualitas Perangkat Lunak - A,1
+Rabu,15:30 - 17:20,Game Edukasi dan Simulasi - T,6
+Rabu,15:30 - 17:20,Organisasi Komputer - E,2
+Rabu,15:30 - 17:20,Otomata - IUP,4
+Rabu,15:30 - 17:20,Pemrograman Jaringan - E,4
+Rabu,15:30 - 17:20,Perancangan dan Analisis Algoritma - G (EN),4
+Rabu,15:30 - 17:20,Probabilitas dan Statistik - F,4
+Rabu,16:30 - 18:20,Topik Dalam Big Data - P,1
+Rabu,18:30 - 20:20,Komputasi Berbasis Jaringan - P,1
+Rabu,18:30 - 20:20,Topik Dalam Pemodelan dan Simulasi - P,1
+Rabu,18:30 - 20:20,Topik Dalam Text Mining - P,1
+Kamis,07:00 - 08:50,Filsafat Ilmu-K,1
+Kamis,07:00 - 08:50,Grafika Komputer - RKA (N),4
+Kamis,07:00 - 08:50,Interaksi Manusia dan Komputer - IUP,6
+Kamis,07:00 - 08:50,Komputasi Numerik - D,2
+Kamis,07:00 - 08:50,Perancangan dan Analisis Algoritma - H (EN),4
+Kamis,07:00 - 08:50,Probabilitas dan Statistik - RPL (M),4
+Kamis,07:00 - 08:50,Riset Operasi - T,5
+Kamis,07:00 - 08:50,Sistem Operasi - E,2
+Kamis,07:00 - 08:50,Topik Dalam Analisis Data Multivariat - A,1
+Kamis,07:00 - 08:50,Topik Dalam Text Mining - A,1
+Kamis,10:00 - 11:50,Arsitektur Perangkat Lunak - RPL (M),4
+Kamis,10:00 - 11:50,Interaksi Manusia dan Komputer - C,6
+Kamis,10:00 - 11:50,Interaksi Manusia dan Komputer - D,6
+Kamis,10:00 - 11:50,Interaksi Manusia dan Komputer - RKA (N),4
+Kamis,10:00 - 11:50,Otomata - K,4
+Kamis,10:00 - 11:50,Pembelajaran Mesin - IUP (J),4
+Kamis,10:00 - 11:50,Pemrograman Perangkat Bergerak - E,6
+Kamis,10:00 - 11:50,Pengantar Teknologi Elektro dan Informatika Cerdas - IUP,2
+Kamis,10:00 - 11:50,Perancangan dan Analisis Algoritma - K (EN),4
+Kamis,10:00 - 11:50,Probabilitas dan Statistik - G,4
+Kamis,10:00 - 11:50,TD Rekayasa Kebutuhan-K,1
+Kamis,10:00 - 11:50,Text Mining - T,6
+Kamis,11:00 - 11:50,Kalkulus 2,2
+Kamis,13:30 - 15:20,Big Data - T (EN),7
+Kamis,13:30 - 15:20,Deep Learning - RKA (N),4
+Kamis,13:30 - 15:20,Interaksi Manusia dan Komputer - E,6
+Kamis,13:30 - 15:20,Matematika Diskrit - RPL (M),2
+Kamis,13:30 - 15:20,Pemrograman Perangkat Bergerak - F,6
+Kamis,13:30 - 15:20,Pemrograman Perangkat Bergerak - G,6
+Kamis,13:30 - 15:20,Perancangan dan Analisis Algoritma - IUP,4
+Kamis,13:30 - 15:20,Perancangan Perangkat Lunak - G,4
+Kamis,13:30 - 15:20,Perancangan Perangkat Lunak - H,4
+Kamis,13:30 - 15:20,Probabilitas dan Statistik - RKA (N),2
+Kamis,13:30 - 15:20,Struktur Data - D,2
+Kamis,13:30 - 15:20,Struktur Data - E,2
+Kamis,13:30 - 15:20,TD Pengaman Jaringan Komputer-K,1
+Kamis,13:30 - 15:20,Topik Dalam Visi Komputer - A,1
+Kamis,15:30 - 17:20,Probabilitas dan Statistik - H,4
+Kamis,15:30 - 17:20,Topik Dalam Pemodelan dan Simulasi - A,1
+Kamis,16:30 - 18:20,Topik Dalam Audit Sistem - P,1
+Kamis,16:30 - 18:20,Topik Dalam Penjaminan Kualitas Perangkat Lunak - P,1
+Kamis,18:30 - 20:20,Rekayasa Perangkat Lunak - P,1
+Jumat,09:00 - 10:50,Konstruksi Perangkat Lunak - RPL (M),4
+Jumat,09:00 - 10:50,Metodologi Penelitian - B,2
+Jumat,09:00 - 10:50,Rekayasa Kebutuhan - RPL (M),2
+Jumat,09:00 - 10:50,TD Visi Komputer-A,1
+Jumat,13:30 - 15:20,Etika Profesi - REG - IUP,7
+Jumat,13:30 - 15:20,Pengantar Pengembangan Game - Z (Pengayaan),7
+Jumat,13:30 - 15:20,Pengantar Teknologi Basis Data - Z (Pengayaan),5
+Jumat,18:30 - 20:20,Matrikulasi-Pemrograman Python - P,1
+Jumat,18:30 - 20:20,Metodologi Penelitian - P,2
+Jumat,18:30 - 20:20,Metodologi Penelitian - Q,2
