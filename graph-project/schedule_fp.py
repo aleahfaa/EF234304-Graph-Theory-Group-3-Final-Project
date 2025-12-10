@@ -1,4 +1,6 @@
 import csv
+import networkx as nx
+import matplotlib.pyplot as plt
 
 def parse_time(time_str):
     time_str = time_str.strip()
@@ -43,6 +45,41 @@ def welsh_powell_coloring(graph):
                 if other not in colors and all(colors.get(adj) != color_num for adj in graph[other]):
                     colors[other] = color_num
     return colors
+
+
+def visualize_graph(graph, colors):
+    if not graph:
+        return
+
+    G = nx.Graph()
+    G.add_nodes_from(graph.keys())
+    for node, neighbors in graph.items():
+        for neighbor in neighbors:
+            G.add_edge(node, neighbor)
+
+    unique_colors = sorted(list(set(colors.values())))
+    color_map_hex = plt.cm.get_cmap('rainbow', len(unique_colors))
+    
+    node_colors = []
+    for node in G.nodes():
+        if node in colors:
+             # Get color index (0 to N-1)
+            idx = unique_colors.index(colors[node])
+            node_colors.append(color_map_hex(idx))
+        else:
+            node_colors.append('gray')
+
+    plt.figure(figsize=(12, 8))
+    pos = nx.spring_layout(G, seed=42)  # Consistent layout
+    
+    nx.draw(G, pos, with_labels=True, node_color=node_colors, 
+            node_size=3000, font_size=9, font_weight='bold', 
+            edge_color='gray', width=1.5, alpha=0.9)
+            
+    plt.title("Course Scheduling Conflict Graph (Welsh-Powell)", size=15)
+    plt.axis("off") # Turn off axis
+    plt.tight_layout()
+    plt.show()
 
 
 def group_by_color(colors):
@@ -127,6 +164,8 @@ def main():
     print("\nNo-Conflict Grouped Schedule:")
     for slot, cls_list in grouped.items():
         print(f"Slot #{slot}: {', '.join(cls_list)}")
+    
+    visualize_graph(graph, colors)
 
 
 if __name__ == "__main__":
